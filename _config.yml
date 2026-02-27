@@ -1,9 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Flori Jane # your name (or website title) here
+logo: "/images/facie.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <h1>First description <h1>
+  
   <br><br>
-  Second description 
+  <h2>Second<h2> description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
