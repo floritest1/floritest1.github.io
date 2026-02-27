@@ -1,10 +1,11 @@
 title: Flori Jane # your name (or website title) here
 logo: "/images/facie.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1>First description <h1>
-  test
+  <h2>First description <h2>
+  
   <br><br>
-  <h2>Second<h2> description 
+  
+  <h3>Second<h3> description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
